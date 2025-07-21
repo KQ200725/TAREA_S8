@@ -21,7 +21,7 @@ public class Dashboard {
         this.sistemaActivo = true;                // Inicializar sistema como activo
         System.out.println(" Sistema inicializado correctamente.");
     }
-    
+    //inciamos
     /**
      * Método principal que inicia la aplicación
      * Controla el flujo principal del programa
